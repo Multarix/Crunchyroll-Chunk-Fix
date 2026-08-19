@@ -7,8 +7,8 @@
 // @match        https://www.crunchyroll.com/*
 // @run-at       document-start
 // @grant        none
-// @updateURL    https://git.multarix.com/Multarix/Crunchyroll-Chunk-Fix/raw/branch/master/crunchy.user.js
-// @downloadURL  https://github.com/Multarix/Crunchyroll-Chunk-Fix/raw/branch/master/crunchy.user.js
+// @updateURL    https://github.com/Multarix/Crunchyroll-Chunk-Fix/raw/refs/heads/master/crunchy.user.js
+// @downloadURL  https://github.com/Multarix/Crunchyroll-Chunk-Fix/raw/refs/heads/master/crunchy.user.js
 // ==/UserScript==
 
 (() => {
